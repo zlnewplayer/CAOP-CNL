@@ -1,6 +1,6 @@
 // C++ program to solve the cardinality-constrained assortment optimization under the Cross-Nested Logit model 
 // The exact algorithm is based on a tailored branch-and-bound algorithm
-// We develop three heurisic algorithms: 1 - sorted-by-revenue, 2 - pure greedy algorithm, 3 - binary search + greedy algorithm
+// We develop  heurisic algorithms: 1 - sorted-by-revenue, 2 - binary search + greedy algorithm
 
 #include <bits/stdc++.h>
 #include <algorithm>
